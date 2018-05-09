@@ -1,4 +1,4 @@
-FROM brooksambrose/portfolio:su18
+FROM brooksambrose/portfolio:floor
 
 COPY . ${HOME}
 USER root
