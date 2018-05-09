@@ -1,6 +1,6 @@
 FROM brooksambrose/portfolio:floor
 
-COPY . ${HOME}
+COPY . /home/${NB_USER}
 USER root
 RUN chown -R ${NB_UID} /home/${NB_USER}
 USER ${NB_USER}
