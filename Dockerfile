@@ -1,6 +1,6 @@
 FROM brooksambrose/portfolio:su18
 
-ENV NB_USER plagiat¡
+ENV NB_USER plagiat
 ENV NB_UID 1000
 ENV HOME /home/${NB_USER}
 
