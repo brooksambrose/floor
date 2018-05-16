@@ -4,3 +4,5 @@ default-jre
 default-jdk
 xauth
 xvfb
+libigraph0
+libigraph0-dev
