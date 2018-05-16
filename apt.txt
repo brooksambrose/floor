@@ -1,0 +1,6 @@
+software-properties-common
+subversion
+default-jre
+default-jdk
+libgdal1-dev
+libproj-dev
