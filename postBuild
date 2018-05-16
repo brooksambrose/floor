@@ -1,0 +1,12 @@
+#!/bin/bash
+#R CMD javareconf
+
+## Install cosparallel
+
+(cd ~/ \
+	&& svn checkout svn://svn.code.sf.net/p/cosparallel/code/trunk cosparallel-code \
+	&& cd cosparallel-code \
+	&& ./configure \
+	&& make \
+	&& cd extras \
+	&& make)
