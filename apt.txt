@@ -1,8 +1,0 @@
-software-properties-common
-subversion
-default-jre
-default-jdk
-xauth
-xvfb
-libigraph0v5
-libigraph0-dev
