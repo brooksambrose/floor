@@ -27,6 +27,7 @@ c<-0
 ```
 
 ```{r manual-log}
+cat('\014')
 c<-c+1
 i<-names(s)[c]
 cat('# ',i,'\n### ',s[[i]],'\n\n',sep='')
