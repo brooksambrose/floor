@@ -2,6 +2,7 @@ install.packages(
 strsplit("
 
 devtools
+data.table
 
 ","\n+")[[1]][-1]
 )
