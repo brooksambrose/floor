@@ -1,50 +1,7 @@
 install.packages(
 strsplit("
 
-alluvial
-clisymbols
-microbenchmark
-phonTools
-RODBC
-stargazer
-stringdist
-blockmodeling
-bookdown
-breakpoint
-changepoint
-classInt
-degreenet
-dendextend
 devtools
-DiagrammeR
-DiagrammeRsvg
-EMD
-forecast
-geometry
-hergm
-htmltab
-kableExtra
-LDAvis
-lsa
-mallet
-miniCRAN
-miniUI
-mosaic
-networksis
-profvis
-qualtRics
-relevent
-RQDA
-RTextTools
-servr
-statnet
-stmCorrViz
-SuperLearner
-topicmodels
-TSP
-webshot
-wordcloud
-xlsx
 
 ","\n+")[[1]][-1]
 )
@@ -52,9 +9,7 @@ xlsx
 devtools::install_github(
 strsplit("
 
-1beb/RGoogleDrive
-mroberts/stmBrowser
-seancarmody/ngramr
+metacran/crandb
 
 ","\n+")[[1]][-1]
 )
