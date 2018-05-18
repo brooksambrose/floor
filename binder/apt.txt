@@ -2,3 +2,6 @@ r-cran-cairodevice
 r-cran-rgtk2
 r-cran-rjava
 r-cran-rodbc
+r-cran-v8
+phantomjs
+libgsl-dev

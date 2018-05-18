@@ -9,6 +9,7 @@ bookdown
 breakpoint
 dendextend
 DiagrammeR
+googledrive
 htmltab
 kableExtra
 LDAvis
@@ -22,6 +23,8 @@ statnet
 stmCorrViz
 SuperLearner
 webshot
+
+topicmodels
 
 ","\n+")[[1]][-1]
 )
