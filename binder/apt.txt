@@ -5,3 +5,4 @@ r-cran-rodbc
 r-cran-v8
 phantomjs
 libgsl-dev
+libigraph0-dev
