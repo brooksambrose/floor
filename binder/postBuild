@@ -13,7 +13,7 @@
 
 ## run install.R since r2d didn't do it!
 
-R CMD install.R
+R CMD ./binder/install.R
 
 apt-get update && \
 apt-get install --yes --no-install-recommends xauth xvfb && \
