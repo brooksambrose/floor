@@ -1,0 +1,4 @@
+r-cran-cairodevice
+r-cran-rgtk2
+r-cran-rjava
+r-cran-rodbc
