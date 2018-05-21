@@ -11,7 +11,3 @@
 	&& cd extras \
 	&& make)
 
-## install packages requiring frame buffer
-
-xvfb-run R CMD -e '{install.packages(c("cairoDevice","RQDA"));warnings()}'
-

@@ -8,3 +8,5 @@ libgsl-dev
 libigraph0-dev
 xauth
 xvfb
+x11vnc
+libgtk2.0-dev
