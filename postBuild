@@ -13,4 +13,6 @@
 
 ## tinytex
 
-R -e "tinytex::install_tinytex(dir=\"${HOME}/local/bin\")"
+R -e 'tinytex::install_tinytex()'
+
+mkdir -p ${HOME}/local/bin && mv ${HOME}/bin/* ${HOME}/local/bin && rm -rf ${HOME}/bin
