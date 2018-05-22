@@ -13,6 +13,4 @@
 
 ## tinytex
 
-R -e 'tinytex::install_tinytex()'
-
-export PATH=${PATH}:${HOME}/bin
+R -e "tinytex::install_tinytex(dir=\"${HOME}/local/bin\")"
