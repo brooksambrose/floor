@@ -22,6 +22,7 @@ servr
 statnet
 stmCorrViz
 SuperLearner
+tinytex
 webshot
 
 topicmodels
