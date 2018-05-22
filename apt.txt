@@ -10,3 +10,4 @@ xauth
 xvfb
 x11vnc
 libgtk2.0-dev
+vim
