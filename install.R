@@ -38,6 +38,7 @@ strsplit("
 1beb/RGoogleDrive
 mroberts/stmBrowser
 seancarmody/ngramr
+klutometis/roxygen
 
 ","\n+")[[1]][-1]
 )
