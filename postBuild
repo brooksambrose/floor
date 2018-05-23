@@ -1,6 +1,9 @@
 #!/bin/bash
 #R CMD javareconf
 
+# make empty mount directory
+
+
 # make user software dir
 mkdir -p ${HOME}/.local/bin
 
