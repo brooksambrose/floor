@@ -1,5 +1,5 @@
-install.packages(
-strsplit("
+install.packages(Ncpus=parallel::detectCores()-1
+,strsplit("
 
 alluvial
 clisymbols

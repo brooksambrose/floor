@@ -1,18 +1,23 @@
 #!/bin/bash
 #R CMD javareconf
 
-## Install cosparallel
+# make user software dir
+mkdir -p ${HOME}/.local/bin
 
-(cd ~/ \
-	&& svn checkout svn://svn.code.sf.net/p/cosparallel/code/trunk cosparallel-code \
-	&& cd cosparallel-code \
-	&& ./configure \
-	&& make \
-	&& cd extras \
-	&& make)
+## install cosparallel
 
-## tinytex
+(cd ~ \
+&& svn checkout svn://svn.code.sf.net/p/cosparallel/code/trunk cosparallel-code \
+&& cd cosparallel-code \
+&& ./configure \
+&& make \
+&& mv cos ${HOME}/.local/bin
+&& cd extras \
+&& make \
+&& mv maximal_cliques ${HOME}/.local/bin) && rm -rf cosparallel-code
 
-R -e 'tinytex::install_tinytex()'
+## install tinytex
 
-mkdir -p ${HOME}/local/bin && mv ${HOME}/bin/* ${HOME}/local/bin && rm -rf ${HOME}/bin
+R -e 'tinytex::install_tinytex(dir="~/.local")' \
+&& mv ${HOME}/bin/* ${HOME}/.local/bin \
+&& rm -rf ${HOME}/bin
