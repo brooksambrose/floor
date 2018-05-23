@@ -11,7 +11,7 @@ mkdir -p ${HOME}/.local/bin
 && cd cosparallel-code \
 && ./configure \
 && make \
-&& mv cos ${HOME}/.local/bin
+&& mv cos ${HOME}/.local/bin \
 && cd extras \
 && make \
 && mv maximal_cliques ${HOME}/.local/bin) && rm -rf cosparallel-code
