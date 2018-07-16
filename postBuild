@@ -1,5 +1,10 @@
 #!/bin/bash
-#R CMD javareconf
+
+# export java related environment variables (necessary to load rJava)
+R CMD javareconf -e
+
+# install packages depending on rJava
+Rscript -e 'install.packages("qdap",Ncpus=parallel::detectCores()-1)'
 
 # make empty mount directory
 
