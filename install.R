@@ -13,10 +13,12 @@ googledrive
 htmltab
 kableExtra
 LDAvis
+linkcomm
 lsa
 miniCRAN
 miniUI
 mosaic
+progress
 qualtRics
 servr
 statnet
