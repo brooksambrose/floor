@@ -28,6 +28,9 @@ tinytex
 webshot
 
 topicmodels
+Rtsne
+rsvd
+geometry
 
 RQDA
 
