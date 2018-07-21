@@ -44,6 +44,7 @@ strsplit("
 mroberts/stmBrowser
 seancarmody/ngramr
 klutometis/roxygen
+aykutfirat/cldr
 
 ","\n+")[[1]][-1]
 )
