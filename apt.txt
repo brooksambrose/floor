@@ -4,6 +4,8 @@ openjdk-8-jre
 openjdk-8-jdk
 r-cran-rodbc
 r-cran-v8
+protobuf
+protobuf-compiler
 phantomjs
 libgsl-dev
 libigraph0-dev
