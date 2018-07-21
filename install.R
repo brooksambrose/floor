@@ -3,6 +3,7 @@ install.packages(Ncpus=parallel::detectCores()-1
 
 alluvial
 clisymbols
+cld3
 phonTools
 stargazer
 bookdown
@@ -44,7 +45,6 @@ strsplit("
 mroberts/stmBrowser
 seancarmody/ngramr
 klutometis/roxygen
-aykutfirat/cldr
 
 ","\n+")[[1]][-1]
 )
