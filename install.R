@@ -18,6 +18,7 @@ kableExtra
 LDAvis
 linkcomm
 lsa
+microbenchmark
 miniCRAN
 miniUI
 mosaic
