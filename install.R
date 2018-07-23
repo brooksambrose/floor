@@ -3,6 +3,7 @@ install.packages(Ncpus=parallel::detectCores()-1
 
 alluvial
 clisymbols
+cld2
 cld3
 phonTools
 stargazer
