@@ -6,6 +6,7 @@ r-cran-rodbc
 r-cran-v8
 libtesseract-dev
 libleptonica-dev
+tesseract-ocr-eng
 libprotobuf-dev
 protobuf-compiler
 libpoppler-cpp-dev
