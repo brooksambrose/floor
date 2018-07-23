@@ -28,6 +28,7 @@ servr
 statnet
 stmCorrViz
 SuperLearner
+tesseract
 tinytex
 webshot
 
