@@ -6,6 +6,7 @@ r-cran-rodbc
 r-cran-v8
 libprotobuf-dev
 protobuf-compiler
+libpoppler-cpp-dev
 phantomjs
 libgsl-dev
 libigraph0-dev

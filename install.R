@@ -6,6 +6,7 @@ clisymbols
 cld2
 cld3
 phonTools
+pdftools
 stargazer
 bookdown
 breakpoint
