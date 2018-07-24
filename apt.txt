@@ -9,6 +9,7 @@ libleptonica-dev
 tesseract-ocr-eng
 libprotobuf-dev
 protobuf-compiler
+libpoppler-dev
 libpoppler-cpp-dev
 phantomjs
 libgsl-dev
