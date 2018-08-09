@@ -7,6 +7,7 @@ cld2
 cld3
 phonTools
 pdftools
+pbapply
 stargazer
 bookdown
 breakpoint
