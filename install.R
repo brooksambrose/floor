@@ -33,6 +33,7 @@ SuperLearner
 tesseract
 tinytex
 webshot
+stringdist
 
 topicmodels
 Rtsne
