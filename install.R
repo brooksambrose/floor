@@ -34,7 +34,7 @@ tesseract
 tinytex
 webshot
 stringdist
-
+svglite
 topicmodels
 Rtsne
 rsvd
