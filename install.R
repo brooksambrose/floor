@@ -39,7 +39,8 @@ topicmodels
 Rtsne
 rsvd
 geometry
-
+ggExtra
+vcd
 RQDA
 
 ","\n+")[[1]][-1]
