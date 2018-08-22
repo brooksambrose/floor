@@ -9,7 +9,6 @@ phonTools
 pdftools
 pbapply
 stargazer
-bookdown
 breakpoint
 dendextend
 DiagrammeR
@@ -52,6 +51,8 @@ strsplit("
 1beb/RGoogleDrive
 mroberts/stmBrowser
 seancarmody/ngramr
+yihui/xfun
+rstudio/bookdown
 
 ","\n+")[[1]][-1]
 )
