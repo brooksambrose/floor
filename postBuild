@@ -20,3 +20,13 @@ mkdir -p ${HOME}/.local/bin
 R -e 'tinytex::install_tinytex(dir="~/.local/TinyTex")' \
 && mv ${HOME}/bin/* ${HOME}/.local/bin \
 && rm -rf ${HOME}/bin
+
+## install uclathes document class and citation style
+
+git clone -b 2.0 https://github.com/louis925/uclathes \
+&& (cd uclathes && git checkout a4c74df) \
+&& mkdir -p $(kpsewhich -var-value=TEXMFHOME)/tex/latex/uclathes \
+&& mv uclathes/*.cl[so] $_ \
+&& mkdir -p $(kpsewhich -var-value=TEXMFHOME)/bibtex/bst/uclathes \
+&& mv uclathes/*.bst $_ \
+&& rm -rf uclathes
