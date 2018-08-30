@@ -3,6 +3,7 @@ install.packages(Ncpus=parallel::detectCores()-1
 
 alluvial
 breakpoint
+changepoint
 cld2
 cld3
 clisymbols
