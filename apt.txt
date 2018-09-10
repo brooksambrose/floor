@@ -1,3 +1,4 @@
+build-essential
 r-cran-cairodevice
 r-cran-rgtk2
 openjdk-8-jre
