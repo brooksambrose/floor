@@ -16,6 +16,7 @@ googledrive
 htmltab
 kableExtra
 LDAvis
+ldatuning
 linkcomm
 lsa
 microbenchmark
