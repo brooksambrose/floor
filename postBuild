@@ -15,9 +15,9 @@ mkdir -p ${HOME}/.local/bin
 && make \
 && mv maximal_cliques ${HOME}/.local/bin) && rm -rf cosparallel-code
 
-## install tinytex
+## install tinytex & phantomjs
 
-R -e 'tinytex::install_tinytex(dir="~/.local/TinyTex")' \
+R -e 'tinytex::install_tinytex(dir="~/.local/TinyTex");webshot::install_phantomjs()' \
 && mv ${HOME}/bin/* ${HOME}/.local/bin \
 && rm -rf ${HOME}/bin
 
