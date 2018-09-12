@@ -20,4 +20,4 @@ libgtk2.0-dev
 vim
 libgmp3-dev
 libmpfr-dev
-ttf-freefont
+fonts-freefont-ttf
