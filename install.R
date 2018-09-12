@@ -26,6 +26,7 @@ mosaic
 pbapply
 pdftools
 phonTools
+plotly
 progress
 psych
 qualtRics
