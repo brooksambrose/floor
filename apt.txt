@@ -21,3 +21,5 @@ vim
 libgmp3-dev
 libmpfr-dev
 fonts-freefont-ttf
+pngquant
+optipng
