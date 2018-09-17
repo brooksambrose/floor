@@ -35,7 +35,6 @@ RQDA
 rsvd
 Rtsne
 servr
-stargazer
 statnet
 stmCorrViz
 stringdist

@@ -21,6 +21,17 @@ R -e 'tinytex::install_tinytex(dir="~/.local/TinyTex");webshot::install_phantomj
 && mv ${HOME}/bin/* ${HOME}/.local/bin \
 && rm -rf ${HOME}/bin
 
+## install patched stargazer to integrate bookdown
+
+git config user.email 'brooksambrose@gmail.com' \
+&& git clone https://github.com/cran/stargazer \
+&& cd stargazer \
+&& git remote add -f rpatch https://github.com/brooksambrose/stargazer_bookdown \
+&& git merge -m'play well with bookdown' rpatch/master \
+&& cd .. && R -e 'devtools::install_git("stargazer")' \
+&& rm -rf stargazer
+
+
 ## install uclathes document class and citation style
 
 git clone -b 2.0 https://github.com/louis925/uclathes \
