@@ -26,8 +26,7 @@ R -e 'tinytex::install_tinytex(dir="~/.local/TinyTex");webshot::install_phantomj
 git config user.email 'brooksambrose@gmail.com' \
 && git clone https://github.com/cran/stargazer \
 && cd stargazer \
-&& git remote add -f rpatch https://github.com/brooksambrose/stargazer_bookdown \
-&& git merge -m'play well with bookdown' rpatch/master \
+&& git pull -r https://github.com/brooksambrose/stargazer_bookdown \
 && cd .. && R -e 'devtools::install_git("stargazer")' \
 && rm -rf stargazer
 
