@@ -3,6 +3,7 @@ install.packages(Ncpus=parallel::detectCores()-1
 
 alluvial
 breakpoint
+caret
 changepoint
 cld2
 cld3
