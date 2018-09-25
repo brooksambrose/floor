@@ -35,6 +35,8 @@ qualtRics
 roxygen2
 RQDA
 rsvd
+randomForest
+RhpcBLASctl
 Rtsne
 servr
 statnet
@@ -47,6 +49,7 @@ tinytex
 topicmodels
 vcd
 webshot
+xgboost
 
 ","\n+")[[1]][-1]
 )
