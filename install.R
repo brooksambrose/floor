@@ -23,6 +23,7 @@ microbenchmark
 miniCRAN
 miniUI
 mosaic
+NbClust
 pbapply
 pdftools
 phonTools
