@@ -15,6 +15,7 @@ e1071
 ecp
 geometry
 ggExtra
+ggraph
 googledrive
 htmltab
 kableExtra
