@@ -51,6 +51,7 @@ tesseract
 tinytex
 topicmodels
 vcd
+visreg
 webshot
 xgboost
 
