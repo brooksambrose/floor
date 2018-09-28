@@ -34,6 +34,7 @@ phonTools
 plotly
 progress
 psych
+PresenceAbsence
 qualtRics
 roxygen2
 RQDA
