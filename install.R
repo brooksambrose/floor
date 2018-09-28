@@ -32,6 +32,7 @@ pbapply
 pdftools
 phonTools
 plotly
+profvis
 progress
 psych
 PresenceAbsence
