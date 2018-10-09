@@ -3,15 +3,19 @@ install.packages(Ncpus=parallel::detectCores()-1
 
 alluvial
 breakpoint
+bartMachine
+caret
 changepoint
 cld2
 cld3
 clisymbols
 dendextend
 DiagrammeR
+e1071
 ecp
 geometry
 ggExtra
+ggraph
 googledrive
 htmltab
 kableExtra
@@ -23,18 +27,23 @@ microbenchmark
 miniCRAN
 miniUI
 mosaic
+NbClust
 pbapply
 pdftools
 phonTools
+plotly
+profvis
 progress
 psych
+PresenceAbsence
 qualtRics
 roxygen2
 RQDA
 rsvd
+randomForest
+RhpcBLASctl
 Rtsne
 servr
-stargazer
 statnet
 stmCorrViz
 stringdist
@@ -44,7 +53,9 @@ tesseract
 tinytex
 topicmodels
 vcd
+visreg
 webshot
+xgboost
 
 ","\n+")[[1]][-1]
 )
