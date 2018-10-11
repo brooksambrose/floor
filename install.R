@@ -44,6 +44,7 @@ randomForest
 RhpcBLASctl
 Rtsne
 servr
+skmeans
 statnet
 stmCorrViz
 stringdist
