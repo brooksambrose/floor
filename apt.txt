@@ -24,4 +24,5 @@ fonts-freefont-ttf
 pngquant
 optipng
 libudunits2-dev
+htop
 
