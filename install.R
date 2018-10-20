@@ -28,6 +28,7 @@ miniCRAN
 miniUI
 mosaic
 NbClust
+nsprcomp
 pbapply
 pdftools
 phonTools
