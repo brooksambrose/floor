@@ -2,6 +2,7 @@ install.packages(Ncpus=parallel::detectCores()-1
 ,strsplit("
 
 alluvial
+ape
 breakpoint
 bartMachine
 caret
