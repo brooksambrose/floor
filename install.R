@@ -15,6 +15,7 @@ DiagrammeR
 e1071
 ecp
 geometry
+ggdendro
 ggExtra
 ggraph
 googledrive
