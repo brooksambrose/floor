@@ -21,6 +21,7 @@ ggraph
 ggnetwork
 googledrive
 htmltab
+intergraph
 kableExtra
 LDAvis
 ldatuning
