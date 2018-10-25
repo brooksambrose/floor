@@ -48,6 +48,7 @@ RhpcBLASctl
 Rtsne
 servr
 skmeans
+sparsepca
 statnet
 stmCorrViz
 stringdist
