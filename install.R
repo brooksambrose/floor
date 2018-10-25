@@ -18,6 +18,7 @@ geometry
 ggdendro
 ggExtra
 ggraph
+ggnetwork
 googledrive
 htmltab
 kableExtra
