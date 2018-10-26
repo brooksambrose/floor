@@ -24,6 +24,7 @@ htmltab
 intergraph
 kableExtra
 LDAvis
+latentnet
 ldatuning
 linkcomm
 lsa
