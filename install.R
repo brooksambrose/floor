@@ -50,6 +50,7 @@ randomForest
 RhpcBLASctl
 Rtsne
 servr
+shape
 skmeans
 sparsepca
 statnet
