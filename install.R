@@ -14,6 +14,7 @@ dendextend
 DiagrammeR
 e1071
 ecp
+forecast
 geometry
 ggdendro
 ggExtra
