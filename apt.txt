@@ -1,5 +1,6 @@
 r-cran-cairodevice
 r-cran-rgtk2
+r-cran-rgl
 openjdk-8-jre
 openjdk-8-jdk
 r-cran-rodbc
