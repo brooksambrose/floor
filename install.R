@@ -60,6 +60,7 @@ stringdist
 SuperLearner
 svglite
 tesseract
+threejs
 tinytex
 topicmodels
 vcd
