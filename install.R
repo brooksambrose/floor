@@ -53,6 +53,7 @@ Rtsne
 servr
 shape
 skmeans
+snowFT
 sparsepca
 statnet
 stmCorrViz
