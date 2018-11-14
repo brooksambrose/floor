@@ -28,6 +28,7 @@ LDAvis
 latentnet
 ldatuning
 linkcomm
+listviewer
 lsa
 microbenchmark
 miniCRAN
