@@ -1,6 +1,7 @@
 install.packages(Ncpus=parallel::detectCores()-1
 ,strsplit("
 
+akima
 alluvial
 ape
 breakpoint
