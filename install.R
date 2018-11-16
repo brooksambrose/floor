@@ -11,6 +11,7 @@ changepoint
 cld2
 cld3
 clisymbols
+colorRamps
 dendextend
 DiagrammeR
 e1071
