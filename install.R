@@ -24,6 +24,7 @@ ggraph
 ggnetwork
 googledrive
 htmltab
+ineq
 intergraph
 kableExtra
 LDAvis
