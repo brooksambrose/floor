@@ -53,6 +53,7 @@ RQDA
 reprex
 rsvd
 randomForest
+RANN
 RhpcBLASctl
 Rtsne
 servr
