@@ -3,6 +3,7 @@ install.packages(Ncpus=parallel::detectCores()-1
 
 akima
 alluvial
+alphahull
 ape
 breakpoint
 bartMachine
