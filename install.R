@@ -41,6 +41,7 @@ miniUI
 mosaic
 NbClust
 nsprcomp
+packcircles
 pbapply
 pdftools
 phonTools
