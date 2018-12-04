@@ -20,6 +20,7 @@ ecp
 forecast
 geometry
 ggdendro
+ggiraph
 ggExtra
 ggraph
 ggnetwork
