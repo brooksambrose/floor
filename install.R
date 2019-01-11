@@ -1,6 +1,15 @@
 install.packages(Ncpus=parallel::detectCores()-1
 ,strsplit("
 
+testit
+rgl
+tikzDevice
+JuliaCall
+png
+jpeg
+gifski
+showtext
+styler
 akima
 alluvial
 alphahull
@@ -20,7 +29,6 @@ ecp
 forecast
 geometry
 ggdendro
-ggiraph
 ggExtra
 ggraph
 ggnetwork
@@ -89,6 +97,7 @@ mroberts/stmBrowser
 seancarmody/ngramr
 yihui/xfun
 rstudio/bookdown
+davidgohel/ggiraph
 
 ","\n+")[[1]][-1]
 )
