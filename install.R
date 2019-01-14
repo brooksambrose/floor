@@ -47,6 +47,7 @@ microbenchmark
 miniCRAN
 miniUI
 mosaic
+networkD3
 NbClust
 nsprcomp
 packcircles
