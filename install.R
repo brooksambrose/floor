@@ -36,6 +36,7 @@ googledrive
 htmltab
 ineq
 intergraph
+jstor
 kableExtra
 LDAvis
 latentnet
