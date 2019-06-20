@@ -103,3 +103,6 @@ davidgohel/ggiraph
 
 ","\n+")[[1]][-1]
 )
+
+devtools::install_github("benmarwick/wordcountaddin", type = "source", dependencies = TRUE)
+
