@@ -105,4 +105,5 @@ davidgohel/ggiraph
 )
 
 devtools::install_github("benmarwick/wordcountaddin", type = "source", dependencies = TRUE)
+devtools::install_github('bstewart/stm',ref='development')
 
