@@ -22,6 +22,7 @@ cld2
 cld3
 clisymbols
 colorRamps
+corrplot
 dendextend
 DiagrammeR
 e1071
