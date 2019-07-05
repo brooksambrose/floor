@@ -16,6 +16,7 @@ alphahull
 ape
 breakpoint
 bartMachine
+bookdown
 caret
 changepoint
 cld2
@@ -99,7 +100,6 @@ strsplit("
 mroberts/stmBrowser
 seancarmody/ngramr
 yihui/xfun
-rstudio/bookdown
 davidgohel/ggiraph
 
 ","\n+")[[1]][-1]
