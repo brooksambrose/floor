@@ -1,5 +1,6 @@
 mesa-common-dev
 cargo
+r-cran-Rfast
 r-cran-cairodevice
 r-cran-rgtk2
 r-cran-rgl
