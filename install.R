@@ -28,6 +28,7 @@ dendextend
 DiagrammeR
 e1071
 ecp
+egg
 forecast
 geometry
 ggdendro
@@ -100,7 +101,8 @@ strsplit("
 mroberts/stmBrowser
 seancarmody/ngramr
 yihui/xfun
-davidgohel/ggiraph
+davidgohel/ogiraph
+brooksambrose/stargazer_bookdown
 
 ","\n+")[[1]][-1]
 )
