@@ -70,6 +70,7 @@ reprex
 rsvd
 randomForest
 RANN
+Rfast
 RhpcBLASctl
 Rtsne
 servr
