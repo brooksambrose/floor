@@ -90,6 +90,7 @@ vcd
 visreg
 webshot
 wordcloud
+wordcloud2
 xgboost
 
 ","\n+")[[1]][-1]
