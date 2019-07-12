@@ -89,6 +89,7 @@ topicmodels
 vcd
 visreg
 webshot
+wordcloud
 xgboost
 
 ","\n+")[[1]][-1]
