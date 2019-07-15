@@ -90,7 +90,6 @@ vcd
 visreg
 webshot
 wordcloud
-wordcloud2
 xgboost
 
 ","\n+")[[1]][-1]
@@ -111,4 +110,4 @@ brooksambrose/stargazer_bookdown
 
 devtools::install_github("benmarwick/wordcountaddin", type = "source", dependencies = TRUE)
 devtools::install_github('bstewart/stm',ref='development')
-
+devtools::install_github('cran/wordcloud2',ref = 'a93cfb6')
