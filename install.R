@@ -111,3 +111,6 @@ brooksambrose/stargazer_bookdown
 devtools::install_github("benmarwick/wordcountaddin", type = "source", dependencies = TRUE)
 devtools::install_github('bstewart/stm',ref='development')
 devtools::install_github('cran/wordcloud2',ref = 'a93cfb6')
+devtools::install_bioc('BiocStyle')
+devtools::install_github('nicolaroberts/hdp',build_vignettes = TRUE)
+
