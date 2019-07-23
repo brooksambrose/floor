@@ -26,6 +26,7 @@ colorRamps
 corrplot
 dendextend
 DiagrammeR
+DT
 e1071
 ecp
 egg
