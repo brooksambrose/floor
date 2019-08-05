@@ -37,6 +37,7 @@ ggExtra
 ggraph
 ggnetwork
 googledrive
+heatmaply
 htmltab
 ineq
 intergraph
@@ -65,6 +66,7 @@ progress
 psych
 PresenceAbsence
 qualtRics
+questionr
 roxygen2
 RQDA
 reprex
