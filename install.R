@@ -24,6 +24,7 @@ cld3
 clisymbols
 colorRamps
 corrplot
+ClusterR
 dendextend
 DiagrammeR
 DT
