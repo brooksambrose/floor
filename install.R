@@ -81,6 +81,7 @@ shape
 skmeans
 snowFT
 sparsepca
+spdep
 statnet
 stmCorrViz
 stringdist
