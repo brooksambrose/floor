@@ -92,7 +92,9 @@ threejs
 tinytex
 topicmodels
 vcd
+#venneuler
 visreg
+VennDiagram
 webshot
 wordcloud
 xgboost
