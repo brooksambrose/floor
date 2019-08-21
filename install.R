@@ -62,6 +62,7 @@ pbapply
 pdftools
 phonTools
 plotly
+plotrix
 profvis
 progress
 psych
