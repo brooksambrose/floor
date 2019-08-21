@@ -18,6 +18,7 @@ libgsl-dev
 libigraph0-dev
 xauth
 xvfb
+xorg
 x11vnc
 libgtk2.0-dev
 vim
