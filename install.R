@@ -50,6 +50,7 @@ ldatuning
 linkcomm
 listviewer
 lsa
+lspline
 microbenchmark
 miniCRAN
 miniUI
