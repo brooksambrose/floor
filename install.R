@@ -78,6 +78,7 @@ randomForest
 RANN
 RhpcBLASctl
 Rtsne
+seqinr
 servr
 shape
 skmeans
