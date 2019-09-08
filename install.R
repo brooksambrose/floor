@@ -71,6 +71,7 @@ PresenceAbsence
 qualtRics
 questionr
 roxygen2
+RefManageR
 RQDA
 reprex
 rsvd
