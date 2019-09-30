@@ -66,6 +66,7 @@ plotly
 plotrix
 profvis
 progress
+prediction
 psych
 PresenceAbsence
 qualtRics
