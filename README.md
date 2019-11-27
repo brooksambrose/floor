@@ -1,5 +1,5 @@
 # studio
 
-A basis for planning package layers.
+Minimum reproducible example for R binary installation not installing package dependencies.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/brooksambrose/studio/master?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/brooksambrose/studio/minpro?urlpath=rstudio)
