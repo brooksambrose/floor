@@ -2,7 +2,7 @@ install.packages(Ncpus=parallel::detectCores()-1
 ,strsplit("
 
 testit
-rgl
+#rgl
 tikzDevice
 JuliaCall
 png
