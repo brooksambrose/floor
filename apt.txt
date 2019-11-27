@@ -1,1 +1,1 @@
-r-cran-xtable
+r-cran-crosstalk
