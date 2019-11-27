@@ -18,7 +18,6 @@ openjdk-8-jre
 optipng
 pngquant
 protobuf-compiler
-r-api-3.4
 r-cran-cairodevice
 r-cran-crosstalk
 r-cran-curl
